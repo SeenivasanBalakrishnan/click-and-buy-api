@@ -1,0 +1,25 @@
+{
+  "name": "click-and-buy-api",
+  "version": "1.0.0",
+  "description": "Restful API for Click and Buy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeenivasanBalakrishnan/click-and-buy-api.git"
+  },
+  "author": "seenivasan.balakrishnan@csscorp.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeenivasanBalakrishnan/click-and-buy-api/issues"
+  },
+  "homepage": "https://github.com/SeenivasanBalakrishnan/click-and-buy-api#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "morgan": "^1.10.0"
+  }
+}
