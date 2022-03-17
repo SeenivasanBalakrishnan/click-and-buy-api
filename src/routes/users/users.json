@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "Seeni",
+        "email": "seeni@mail.com",
+        "password": "$2b$10$cAnxS29fF.Ui5ojWLz4ImOUurBzv3F2zGKObkA8xuypXNtDAkxHEK"
+    },
+    {
+        "id": 2,
+        "name": "Test",
+        "email": "test@mail.com",
+        "password": "$2b$10$pCho9ftCYCUsw6wHq93w..XSWlgz8u.eZ6p20Xht8AUoO0sl7M9aa"
+    }
+]

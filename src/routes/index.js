@@ -3,7 +3,6 @@ const fs = require('fs');
 const path = require('path');
 
 const router = express.Router();
-
 const statsFilePath = path.join(__dirname, "./stats.json");
 
 const getStats = async (req, res, next) => {
